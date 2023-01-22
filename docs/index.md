@@ -1,19 +1,27 @@
-Ce site est dédié aux élèves de Terminales NSI du Lycée Murat à Issoire afin de retrouver les divers TP & TD travaillés en claase.  
+---
+author: Nicolas Revéret
+title: Accueil
+---
 
-Les notebooks sont corrigés et les cellules peuvent être copiées pour être testées dans vos notebooks Capytale.
+# Exercices sur les bases de données
+
+Ce site propose différents exercices sur les bases de donnée et le langage `SQL`.
+
+Vous y trouverez différents exercices sur les thèmes suivants :
+
+* 🔨 [Création de base de données et insertion de valeurs](01_lycee/lycee.md) (hors du programme NSI mais néanmoins intéressant),
+
+* 🐭 [Requêtes sur une seule table](31_prenoms/prenoms.md),
+
+* 🐈 [Requêtes sur plusieurs tables](41_films/films.md),
+
+* 🐯 [Exemples complets](51_world/world.md).
 
 
-!!! info 
-    **Thème en cours** :  
-    - [Calculabilité et Décidabilité](Programmation/Calculabilite_Decidabilite.md)  
+Le site n'a pas vocation à être un cours sur les bases de données ni sur le langage `SQL`. Il propose simplement des exercices de rédaction d'instructions `SQL` dans le cadre du programme de la [spécialité NSI](https://eduscol.education.fr/document/30010/download).
 
+Notez que dans chaque section sauf la dernière, le premier exercice proposé présente les nouvelles instructions `SQL` utilisées.
 
+La dernière section propose des exercices reprenant l'ensemble des instructions présentées dans les précédentes.
 
-    
-
-!!! info  "Epreuve BAC 2022 - Report"
-    Les épreuves de spécialité reportées à la mi-mai se dérouleront en effet conformément au programme d’examen prévu pour mars.  
-    Ces épreuves de spécialité comporteront des aménagements de leurs sujets, qui garantiront toujours un choix au candidat, que ce soit entre des questions ou entre des exercices. Il sera ainsi assuré de traiter un sujet sollicitant des contenus d’enseignement qu’il aura étudiés et travaillés. Les deux jours précédant ces épreuves seront consacrés, dans les établissements, aux révisions des examens, les élèves de terminale n’ayant que leurs cours de spécialité.
-
-    - Les **épreuves écrites** de NSI auront lieu le mercredi 11 mai de 14h à 17h30.  
-    - Les **épreuves pratiques** auront lieu le Jeudi 2 Juin de 8h à 13h.
+Les commandes de base de `SQL` sont rappelées dans le [:bulb: memento `SQL`](memento_sql.md).
